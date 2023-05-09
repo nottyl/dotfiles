@@ -1,0 +1,11 @@
+config/.config/StardewValley/
+config/.config/gh/
+config/.config/asciinema/
+config/.config/jgit/
+config/.config/configstore/
+config/.config/ytmdl/
+config/.config/iterm2/
+config/.config/.git/
+config/.config/.gitignore/
+
+*/.DS_Store/
